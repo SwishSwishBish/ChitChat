@@ -33,7 +33,7 @@ Example of a Spring Boot WebSocket chatroom with sockjs fallback and stomp proto
 
 ## Demo
 
-<p align="center"><img width=700 src="images\demo.gif" alt="demo"/></p>
+<p align="center"><img width=700 src="https://github.com/SwishSwishBish/ChitChat/blob/main/images/demo.gif?raw=true" alt="demo"/></p>
 
 ## Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-atak%C3%B6%C5%9Fker-3a79b0235/)
